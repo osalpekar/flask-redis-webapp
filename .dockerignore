@@ -1,0 +1,4 @@
+myprojectenv/*
+.dockerignore
+.gitignore
+.git
